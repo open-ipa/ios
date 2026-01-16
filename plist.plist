@@ -1,0 +1,45 @@
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/open-ipa/ios/blob/main/Authenticator%204.2.1.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>图标下载地址（png格式）</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>图标下载地址（png格式）</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.google.Authenticator</string>
+                <key>bundle-version</key>
+                <string>4.2.1.9600</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Authenticator</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
